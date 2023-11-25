@@ -1,0 +1,8 @@
+pandas
+gradio
+scikit-learn
+joblib
+altair
+numpy
+tensorflow 
+opencv-python
